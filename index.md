@@ -10,4 +10,5 @@ và xây dựng phần mềm diễn đàn phục vụ người dùng.
 
 Ngôn ngữ lập trình: C, Go, PHP, Python
 
-Hệ điều hành: OpenBSD, FreeBSD, Alpine Linux, Chimera Linux, Gentoo Linux, Windows 10 (mục tiêu tấn công!)
+Hệ điều hành: OpenBSD, FreeBSD, Alpine Linux, Chimera Linux, Gentoo Linux,
+Windows 10 (mục tiêu tấn công!)
